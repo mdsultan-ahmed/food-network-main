@@ -10,13 +10,14 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -25,4 +26,8 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 20%;
+}
+.about-me{
+    background-image: url(images/shapes/bg.png);
+    background-repeat: no-repeat;
 }
