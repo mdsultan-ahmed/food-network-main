@@ -31,3 +31,6 @@ section{
     background-image: url(images/shapes/bg.png);
     background-repeat: no-repeat;
 }
+.receipie-text{
+    text-align: center;
+}
